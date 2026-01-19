@@ -1,43 +1,56 @@
 ﻿using System;
-public class Program{
-    static void Main(){
-        Console.WriteLine("Enter a number: ");
-        int x = int.Parse(Console.ReadLine());
 
-        if(x>1 && !IsPrime(x) && IsLuckyNumber(x)){
-            Console.WriteLine($"{x} is lucky number");
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Enter first number: ");
+        int start = int.Parse(Console.ReadLine());
+
+        Console.Write("Enter second Number: ");
+        int end = int.Parse(Console.ReadLine());
+
+        int count = 0;
+
+        for (int i = start; i <= end; i++)
+        {
+            if (i > 1 && !IsPrime(i) && IsLuckyNumber(i))
+            {
+                count++;
+            }
         }
-        else{
-            Console.WriteLine($"{x} not a lucky number");
-        }
+
+        Console.WriteLine($"Lucky numbers count: {count}");
     }
 
-    public static bool IsLuckyNumber(int x){
-        int sumN = SumOfDigits(x);
-        int square = x* x;
-        int sumSquare = SumOfDigits(square);
+    static bool IsLuckyNumber(int x)
+    {
+        int sumX = SumOfDigits(x);
+        int sumSquare = SumOfDigits(x * x);
 
-        return sumSquare == sumN * sumN;
+        return sumSquare == sumX * sumX;
     }
 
-    public static int SumOfDigits(int n){
-        int sum =  0;
-        while(n>0){
-            sum+= n%10;
-            n/=10;
-        }   
+    static int SumOfDigits(int n)
+    {
+        int sum = 0;
+        while (n > 0)
+        {
+            sum += n % 10;
+            n /= 10;
+        }
         return sum;
-        }
+    }
 
-    public static bool IsPrime(int n){
-        if(n<=1) return false;
+    static bool IsPrime(int n)
+    {
+        if (n <= 1) return false;
+
         for (int i = 2; i <= Math.Sqrt(n); i++)
         {
             if (n % i == 0)
                 return false;
         }
-
         return true;
     }
-
 }
