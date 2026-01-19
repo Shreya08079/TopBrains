@@ -1,0 +1,15 @@
+D:\Dotnet\TopBrains\Multiplication\bin\Debug\net10.0\Multiplication.exe
+D:\Dotnet\TopBrains\Multiplication\bin\Debug\net10.0\Multiplication.deps.json
+D:\Dotnet\TopBrains\Multiplication\bin\Debug\net10.0\Multiplication.runtimeconfig.json
+D:\Dotnet\TopBrains\Multiplication\bin\Debug\net10.0\Multiplication.dll
+D:\Dotnet\TopBrains\Multiplication\bin\Debug\net10.0\Multiplication.pdb
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.AssemblyInfoInputs.cache
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.AssemblyInfo.cs
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.csproj.CoreCompileInputs.cache
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.sourcelink.json
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.dll
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\refint\Multiplication.dll
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.pdb
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\Multiplication.genruntimeconfig.cache
+D:\Dotnet\TopBrains\Multiplication\obj\Debug\net10.0\ref\Multiplication.dll
