@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-class Program
+public class Program
 {
     public string CleanseAndInvert(string input)
     {
@@ -44,7 +44,7 @@ class Program
         return new string(arr);
     }
 
-    static void Main()
+    public static void Main()
     {
         Console.WriteLine("Enter the word");
         string input = Console.ReadLine();

@@ -1,0 +1,5 @@
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net10.0\TestCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net10.0\TestCase.AssemblyInfoInputs.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net10.0\TestCase.AssemblyInfo.cs
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net10.0\TestCase.csproj.CoreCompileInputs.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net10.0\TestCase.sourcelink.json

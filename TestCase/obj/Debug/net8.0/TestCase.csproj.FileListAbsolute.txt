@@ -1,0 +1,9 @@
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.csproj.AssemblyReference.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.gentestingplatformentrypointinputcache.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.genautoregisteredextensionsinputcache.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.AssemblyInfoInputs.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.AssemblyInfo.cs
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.csproj.CoreCompileInputs.cache
+D:\Dotnet\ScenarioBased\TestCase\obj\Debug\net8.0\TestCase.sourcelink.json
+D:\Dotnet\ScenarioBased\TestCase\bin\Debug\net8.0\.msCoverageSourceRootsMapping_TestCase
