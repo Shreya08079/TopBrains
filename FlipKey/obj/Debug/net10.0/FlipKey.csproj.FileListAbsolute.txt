@@ -1,0 +1,15 @@
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.AssemblyInfoInputs.cache
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.AssemblyInfo.cs
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.csproj.CoreCompileInputs.cache
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.sourcelink.json
+D:\Dotnet\ScenarioBased\FlipKey\bin\Debug\net10.0\FlipKey.exe
+D:\Dotnet\ScenarioBased\FlipKey\bin\Debug\net10.0\FlipKey.deps.json
+D:\Dotnet\ScenarioBased\FlipKey\bin\Debug\net10.0\FlipKey.runtimeconfig.json
+D:\Dotnet\ScenarioBased\FlipKey\bin\Debug\net10.0\FlipKey.dll
+D:\Dotnet\ScenarioBased\FlipKey\bin\Debug\net10.0\FlipKey.pdb
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.dll
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\refint\FlipKey.dll
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.pdb
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\FlipKey.genruntimeconfig.cache
+D:\Dotnet\ScenarioBased\FlipKey\obj\Debug\net10.0\ref\FlipKey.dll
